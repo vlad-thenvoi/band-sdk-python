@@ -25,6 +25,10 @@
     "parlant": [
       "ubuntu",
       "windows"
+    ],
+    "strands": [
+      "ubuntu",
+      "windows"
     ]
   },
   "cells": [
@@ -38,7 +42,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -53,7 +58,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -68,7 +74,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -83,7 +90,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -98,7 +106,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -113,7 +122,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -128,7 +138,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -143,7 +154,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -158,7 +170,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -173,7 +186,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -188,7 +202,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -203,7 +218,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -218,7 +234,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -233,7 +250,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -248,7 +266,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -263,7 +282,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -278,7 +298,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -293,7 +314,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -308,7 +330,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -323,7 +346,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -338,7 +362,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -353,7 +378,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -368,7 +394,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -383,7 +410,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -398,7 +426,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -413,7 +442,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -428,7 +458,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -443,7 +474,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -458,7 +490,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -473,7 +506,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -488,7 +522,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -503,7 +538,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -518,16 +554,17 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
     },
     {
-      "test": "tests/e2e/baseline/guards/test_strands_provider.py::test_strands_builder_executes_a_responses_tool_once",
+      "test": "tests/e2e/baseline/guards/test_strands_provider.py::TestStrandsProvider::test_strands_builder_executes_a_responses_tool_once",
       "adapter": "suite",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -542,7 +579,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -557,7 +595,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -572,7 +611,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -587,7 +627,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -602,7 +643,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -617,7 +659,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -632,7 +675,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -647,7 +691,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -1238,7 +1283,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -1289,7 +1335,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -1475,7 +1522,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -1490,7 +1538,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -1667,7 +1716,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -1691,7 +1741,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "deferred: cumulative-lifetime counter, not per-turn"
@@ -1706,7 +1757,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "usage lives in user-supplied flow internals"
@@ -1721,7 +1773,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -1781,7 +1834,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -1808,7 +1862,7 @@
       "test": "tests/e2e/baseline/smoke/inspection/test_usage.py::test_usage_not_cumulative_across_turns",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -1859,7 +1913,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -1883,7 +1938,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "deferred: cumulative-lifetime counter, not per-turn"
@@ -1898,7 +1954,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "usage lives in user-supplied flow internals"
@@ -1913,7 +1970,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -1973,7 +2031,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -2000,7 +2059,7 @@
       "test": "tests/e2e/baseline/smoke/inspection/test_usage.py::test_usage_recorded_for_a_turn",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -2162,7 +2221,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_adapter_matrix.py::test_build_adapter_constructs_each",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -2324,7 +2383,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_adapter_matrix.py::test_per_adapter_replies",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -2402,7 +2461,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "terminal echo flow with no memory \u2014 cannot span-recall an early fact"
@@ -2492,7 +2552,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_burst_recall.py::test_burst_handled_then_spanning_recall",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -2507,7 +2567,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2522,7 +2583,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2537,7 +2599,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2552,7 +2615,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2567,7 +2631,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2582,7 +2647,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2597,7 +2663,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2612,7 +2679,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2627,7 +2695,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2642,7 +2711,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2657,7 +2727,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2672,7 +2743,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2687,7 +2759,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2702,7 +2775,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2717,7 +2791,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2732,7 +2807,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2747,7 +2823,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2762,7 +2839,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2777,7 +2855,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2792,7 +2871,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2807,7 +2887,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2822,7 +2903,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2837,7 +2919,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2852,7 +2935,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2867,7 +2951,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2882,7 +2967,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2897,7 +2983,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2912,7 +2999,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2927,7 +3015,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2942,7 +3031,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2957,7 +3047,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2972,7 +3063,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -2987,7 +3079,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "E2E_FILE_TRANSFER is not true (ff_file_transfer is on-prem-only)"
@@ -3122,7 +3215,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_capability_matrix.py::test_list_contacts_across_contacts_adapters",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -3257,7 +3350,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_capability_matrix.py::test_memory_survives_adapter_rehydration",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -3392,7 +3485,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_capability_matrix.py::test_recall_memory_across_memory_adapters",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -3554,7 +3647,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_capability_matrix.py::test_store_memory_across_memory_adapters",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -3689,7 +3782,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_capability_matrix.py::test_task_lifecycle_across_task_adapters",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -3812,7 +3905,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "global-by-name MCP tools collide across concurrent same-adapter instances (see module docstring)"
@@ -3857,7 +3951,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_concurrent_instances.py::test_concurrent_same_adapter_instances_each_reply",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -3899,7 +3993,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own backend session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -3914,7 +4009,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own ACP session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -3947,7 +4043,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "terminal echo flow with no memory \u2014 cannot recall across a rejoin"
@@ -4016,7 +4113,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own ACP session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -4031,7 +4129,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own backend session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -4049,7 +4148,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_context_recall.py::test_recalls_after_rejoin",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4127,7 +4226,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "terminal echo flow with no memory \u2014 cannot recall a note from an earlier turn"
@@ -4217,7 +4317,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_context_recall.py::test_recalls_within_session",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4316,7 +4416,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_create_chatroom.py::test_agent_creates_a_chatroom",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4415,7 +4515,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_custom_prompt.py::test_custom_prompt_takes_effect_and_coexists_with_platform_tools",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4514,7 +4614,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_identity_and_roster.py::test_reports_identity_and_roster",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4613,7 +4713,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_identity_and_roster.py::test_reports_peer_description_from_passive_roster",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4775,7 +4875,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_loop_suppression.py::test_peer_message_drives_turn_without_loop",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -4799,7 +4899,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ignores exclude_tools, so band_no_reply stays callable"
@@ -4814,7 +4915,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ignores exclude_tools, so band_no_reply stays callable"
@@ -4829,7 +4931,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "relays the model's final text, so an empty turn can't be scripted reliably"
@@ -4853,7 +4956,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ignores exclude_tools, so band_no_reply stays callable"
@@ -4868,7 +4972,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ignores exclude_tools, so band_no_reply stays callable"
@@ -4904,7 +5009,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_missing_reply_reported.py::test_a_turn_that_did_nothing_is_reported_and_failed",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5039,7 +5144,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_no_reply.py::test_an_fyi_ends_the_turn_through_band_no_reply",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5153,7 +5258,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "terminal echo flow with no memory \u2014 cannot recall a seeded fact"
@@ -5243,7 +5349,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_noisy_room.py::test_recall_and_ignore_crosstalk_in_busy_room",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5342,7 +5448,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_participant_management.py::test_invites_messages_and_removes_a_peer",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5441,13 +5547,13 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_peer_delegation.py::test_peer_initiated_delegation_with_self_recall",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
     },
     {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
+      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::TestForeignPeerRehydration::test_rehydrates_foreign_peer_message",
       "adapter": "agno",
       "lanes": [
         "core"
@@ -5456,7 +5562,7 @@
       "reason": null
     },
     {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
+      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::TestForeignPeerRehydration::test_rehydrates_foreign_peer_message",
       "adapter": "anthropic",
       "lanes": [
         "core"
@@ -5465,7 +5571,7 @@
       "reason": null
     },
     {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
+      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::TestForeignPeerRehydration::test_rehydrates_foreign_peer_message",
       "adapter": "claude_sdk",
       "lanes": [
         "core"
@@ -5474,7 +5580,7 @@
       "reason": null
     },
     {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
+      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::TestForeignPeerRehydration::test_rehydrates_foreign_peer_message",
       "adapter": "copilot_sdk",
       "lanes": [
         "core"
@@ -5483,7 +5589,7 @@
       "reason": null
     },
     {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
+      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::TestForeignPeerRehydration::test_rehydrates_foreign_peer_message",
       "adapter": "langgraph",
       "lanes": [
         "backends",
@@ -5492,23 +5598,15 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "the fixed foreign peer here, so it can't also be the fanned cell"
     },
     {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
+      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::TestForeignPeerRehydration::test_rehydrates_foreign_peer_message",
       "adapter": "pydantic_ai",
-      "lanes": [
-        "core"
-      ],
-      "status": "pass",
-      "reason": null
-    },
-    {
-      "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_cross_framework.py::test_rehydrates_foreign_peer_message",
-      "adapter": "strands",
       "lanes": [
         "core"
       ],
@@ -5609,7 +5707,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_idempotency.py::test_handled_work_not_redrained_on_restart",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5651,7 +5749,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -5675,7 +5774,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "deferred: cumulative-lifetime counter, not per-turn"
@@ -5690,7 +5790,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "usage lives in user-supplied flow internals"
@@ -5705,7 +5806,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -5756,7 +5858,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "ACP exposes no per-turn token-usage updates"
@@ -5774,7 +5877,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_idempotency.py::test_restart_usage_splits_replay_and_inference",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5816,7 +5919,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own backend session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -5930,7 +6034,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own backend session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -5948,7 +6053,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_offline.py::test_recalls_offline_note_on_cold_boot",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -5990,7 +6095,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own backend session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -6032,7 +6138,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "terminal echo flow with no memory \u2014 cannot rehydrate context across a reboot"
@@ -6110,7 +6217,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "recovers context by resuming its own backend session, not via platform /context \u2014 a pass would not validate this rehydration"
@@ -6128,7 +6236,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_rehydration_partial.py::test_partial_reboot_preserves_context_and_peer",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -6206,7 +6314,8 @@
         "google",
         "letta",
         "nooa",
-        "parlant"
+        "parlant",
+        "strands"
       ],
       "status": "na",
       "reason": "terminal echo flow with no memory \u2014 cannot recall a per-room note"
@@ -6296,7 +6405,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_room_isolation.py::test_rooms_keep_isolated_context",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -6342,6 +6451,15 @@
       "adapter": "omp_acp",
       "lanes": [
         "backends"
+      ],
+      "status": "pass",
+      "reason": null
+    },
+    {
+      "test": "tests/e2e/baseline/smoke/matrix/test_strands_rehydration.py::TestStrandsForeignPeerRehydration::test_rehydrates_foreign_peer_message",
+      "adapter": "strands",
+      "lanes": [
+        "strands"
       ],
       "status": "pass",
       "reason": null
@@ -6440,7 +6558,7 @@
       "test": "tests/e2e/baseline/smoke/matrix/test_tool_round_trip.py::test_custom_tool_round_trips",
       "adapter": "strands",
       "lanes": [
-        "core"
+        "strands"
       ],
       "status": "pass",
       "reason": null
